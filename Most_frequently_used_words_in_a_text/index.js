@@ -11,15 +11,14 @@
 
 //another methods to solve the problem
 let topThreeWords = text => {
-    let dict = new Map();
-    text.replace(/[A-z']+(?=[ ]+|$)/g, match => {
-        let word = match.toLowerCase();
-        dict.set(word, dict.has(word) ? dict.get(word) + 1 : 1);
+    let dict = new Map();//create a map to store the words and their count
+    text.replace(/[A-z']+(?=[ ]+|$)/g, match => {//replace the words with the count of the words and store them in the map
+        let word = match.toLowerCase();//convert the word to lowercase
+        dict.set(word, dict.has(word) ? dict.get(word) + 1 : 1);// if the word is already in the map, increase the count by 1, otherwise set the count to 1
     });
-    dict.delete("'");
-    return [...dict].sort((a, b) => b[1] - a[1]).map(a => a[0]).slice(0, 3);
+    dict.delete("'");//delete the "'" from the map
+    return [...dict].sort((a, b) => b[1] - a[1]).map(a => a[0]).slice(0, 3);//sort the map by the count and return the top 3 words in the map
 };
-
 
 
 
