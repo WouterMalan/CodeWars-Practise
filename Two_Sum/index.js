@@ -1,0 +1,18 @@
+// Write a function that takes an array of numbers (integers for the tests) and a target number. It should find two
+// different items in the array that, when added together, give the target value. The indices of these items should then 
+// be returned in a tuple / list (depending on your language) like so: (index1, index2).
+
+// For the purposes of this kata, some tests may have multiple answers; any valid solutions will be accepted.
+
+// The input will always be valid (numbers will be an array of length 2 or greater, and all of the items will be 
+//     numbers; target will always be the sum of two different items from that array).
+
+function twoSum(numbers, target){
+    for(let i=0; i<numbers.length; i++){//loop through numbers array to find first number
+        for(let j= i +1; j<numbers.length; j++){//loop through numbers array again starting at index i+1 to avoid duplicates (i+1 to avoid duplicates)
+            if(numbers[i] + numbers[j] ===target){//if the sum of the two numbers is equal to the target number
+                return [i,j];//return the indices of the two numbers that add up to the target number
+            }
+        }
+    }
+}
