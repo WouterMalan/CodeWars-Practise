@@ -1,0 +1,15 @@
+E:\Visual Studio Preview Practicals\C#\Fibonacci challenge\Fibonacci challenge\bin\Debug\net6.0\Fibonacci challenge.exe
+E:\Visual Studio Preview Practicals\C#\Fibonacci challenge\Fibonacci challenge\bin\Debug\net6.0\Fibonacci challenge.deps.json
+E:\Visual Studio Preview Practicals\C#\Fibonacci challenge\Fibonacci challenge\bin\Debug\net6.0\Fibonacci challenge.runtimeconfig.json
+E:\Visual Studio Preview Practicals\C#\Fibonacci challenge\Fibonacci challenge\bin\Debug\net6.0\Fibonacci challenge.dll
+E:\Visual Studio Preview Practicals\C#\Fibonacci challenge\Fibonacci challenge\bin\Debug\net6.0\Fibonacci challenge.pdb
+E:\Visual Studio Preview Practicals\C#\Fibonacci challenge\Fibonacci challenge\obj\Debug\net6.0\Fibonacci challenge.csproj.AssemblyReference.cache
+E:\Visual Studio Preview Practicals\C#\Fibonacci challenge\Fibonacci challenge\obj\Debug\net6.0\Fibonacci challenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Preview Practicals\C#\Fibonacci challenge\Fibonacci challenge\obj\Debug\net6.0\Fibonacci challenge.AssemblyInfoInputs.cache
+E:\Visual Studio Preview Practicals\C#\Fibonacci challenge\Fibonacci challenge\obj\Debug\net6.0\Fibonacci challenge.AssemblyInfo.cs
+E:\Visual Studio Preview Practicals\C#\Fibonacci challenge\Fibonacci challenge\obj\Debug\net6.0\Fibonacci challenge.csproj.CoreCompileInputs.cache
+E:\Visual Studio Preview Practicals\C#\Fibonacci challenge\Fibonacci challenge\obj\Debug\net6.0\Fibonacci challenge.dll
+E:\Visual Studio Preview Practicals\C#\Fibonacci challenge\Fibonacci challenge\obj\Debug\net6.0\refint\Fibonacci challenge.dll
+E:\Visual Studio Preview Practicals\C#\Fibonacci challenge\Fibonacci challenge\obj\Debug\net6.0\Fibonacci challenge.pdb
+E:\Visual Studio Preview Practicals\C#\Fibonacci challenge\Fibonacci challenge\obj\Debug\net6.0\Fibonacci challenge.genruntimeconfig.cache
+E:\Visual Studio Preview Practicals\C#\Fibonacci challenge\Fibonacci challenge\obj\Debug\net6.0\ref\Fibonacci challenge.dll
